@@ -14,16 +14,13 @@ npm run serve
 ```
 npm run build
 ```
+--------------
+## 一
+- npm install -g @vue/cli
+- vue create alter-vue
+- npm run serve 开发运行
+- npm run build 生产
 
-### Run your tests
-```
-npm run test
-```
+----------------
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 二
